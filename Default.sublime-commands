@@ -1,0 +1,5 @@
+[
+	{ "caption": "Tools: Insert ISO date time", "command": "insert_date_time_iso" },
+    { "caption": "Tools: Insert human date time", "command": "insert_date_time_human" },
+    { "caption": "Tools: Insert human date", "command": "insert_date_human" }
+]
