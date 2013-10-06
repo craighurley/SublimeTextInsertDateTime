@@ -1,7 +1,7 @@
 SublimeTextInsertDateTime
 =====================
 
-Insert various date formats in a file.
+Insert various date formats into the current cursor(s).
 
 ## Installation
 ### git
