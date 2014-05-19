@@ -1,4 +1,4 @@
-SublimeTextInsertDateTime
+sublime-insert-date-time
 =====================
 
 Insert various date formats into the current cursor(s).
